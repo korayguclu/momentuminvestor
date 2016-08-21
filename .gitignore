@@ -1,5 +1,6 @@
 docs/_build
 test_results/*
+venv
 
 .idea
 .coverage
